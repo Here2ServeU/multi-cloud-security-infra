@@ -6,6 +6,11 @@ This project provisions a fully secure, production-grade, multi-cloud infrastruc
 
 **I am still working on this new project. I will be updating as fast as I can ...**
 
+<p align="center">
+  <img src="./assets/ongoing.jpeg" alt="Working on Infrastructure" width="300"/>
+</p>
+
+
 ---
 
 This project provisions a fully secure, production-grade, multi-cloud infrastructure across AWS, Azure, and GCP using Terraform.  
