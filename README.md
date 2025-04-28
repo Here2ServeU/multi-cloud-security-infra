@@ -1,6 +1,9 @@
 # Multi-Cloud Security Infrastructure
 
+*I just started working on this project and will update it as I go along.*
+
 This project provisions a fully secure, production-grade, multi-cloud infrastructure across AWS, Azure, and GCP using Terraform.  
+
 Open-source security tools are deployed using Docker Compose on cloud VMs.
 
 ## Project Highlights
