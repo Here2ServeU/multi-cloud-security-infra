@@ -1,7 +1,9 @@
-# Multi-Cloud Security Infrastructure
+# T2S-Services Multi-Cloud Security Infrastructure
 
----
-**I just started working on this project and will update it as I go along.**
+This project provisions a fully secure, production-grade, multi-cloud infrastructure across AWS, Azure, and GCP for T2S-Services, using Terraform and Docker Compose for open-source security tools.
+
+...
+
 ---
 
 This project provisions a fully secure, production-grade, multi-cloud infrastructure across AWS, Azure, and GCP using Terraform.  
