@@ -2,7 +2,9 @@
 
 This project provisions a fully secure, production-grade, multi-cloud infrastructure across AWS, Azure, and GCP for T2S-Services, using Terraform and Docker Compose for open-source security tools.
 
-...
+---
+
+**I am still working on this new project. I will be updating as fast as I can ...**
 
 ---
 
